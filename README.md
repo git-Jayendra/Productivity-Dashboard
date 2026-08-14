@@ -1,33 +1,62 @@
-# Productivity Dashboard 🚀
+# 🚀 Productivity Dashboard
 
-A clean, interactive, and responsive productivity dashboard designed to help track tasks, manage time efficiently, and stay motivated. Built purely with HTML, CSS, and JavaScript.
+### Clean & Interactive Time Management System
 
-## 🔗 Live Demo
-[Click here to view the live project](#) *(Add your GitHub pages link here once deployed)*
+Productivity Dashboard is an interactive web application designed to help users track tasks, manage time efficiently, set daily milestones, and stay inspired.
 
-## 🎥 Project Demo ( Walkthrough)
-Watch the video below to see how the dashboard works in real-time:
+🔗 **Live Demo:** [Productivity Dashboard](https://git-jayendra.github.io/Productivity-Dashboard/)
 
-<video src="assets/videos/demo-video.mp4" controls="controls" width="100%">
-</video>
-*(Note: Ensure your video file is placed at `assets/videos/demo-video.mp4` or update the path accordingly).*
+---
+## 🎥 Project Demo (40-Sec Walkthrough)
 
-## 📸 Interface Screenshots
+Watch the video below to see how the dashboard works:
 
-### Main Dashboard & Features
-![Dashboard Home](assets/images/dashboard.png)
-*(Replace `dashboard.png` with your actual screenshot names stored in `assets/images/`)*
+<video src="assets/videos/Demo.mp4" controls="controls" width="100%"></video>
+
+---
+## 📸 Screenshots & Theme Variations
+
+### Dark Theme Vibe
+![Dark Theme Evening](assets/images/Dark%20Theme%20Evening_vibe.png)
+![Dark Theme Morning](assets/images/Dark%20Theme%20Morning_vibe.png)
+![Dark Theme Night](assets/images/Dark%20Theme%20Night_vibe.png)
+
+### Light Theme Vibe
+![Light Theme Evening](assets/images/Light%20Theme%20Evening_vibe.png)
+![Light Theme Morning](assets/images/Light%20Theme%20Morning_vibe.png)
+![Light Theme Night](assets/images/Light%20Theme%20Night_vibe.png)
+
+---
 
 ## ✨ Features
-- **✅ Task Management:** Add, complete, and track tasks (Data saved locally).
-- **📅 Daily Planner (Agenda):** Plan your day hour-by-hour (6:00 AM to 1:00 AM).
-- **⏱️ Pomodoro Timer (Deep Work):** Built-in 25-minute deep work timer with start, pause, and reset functionality.
-- **🎯 Daily Goals (Milestones):** Set and mark daily milestones as completed.
-- **🌤️ Real-Time Weather & Clock:** Live weather updates for Basti (UP) and dynamic background changes based on the time of day.
-- **💡 Motivational Quotes:** Fetches random quotes to keep you inspired.
-- **🎨 Dynamic Theme Switcher:** Easily toggle between different custom UI themes.
+
+* ✅ **Task Management:** Add, complete, and track tasks (Data saved locally)
+* 📅 **Daily Planner:** Plan your day hour-by-hour agenda
+* ⏱️ **Pomodoro Timer:** Built-in 25-minute deep work timer 
+* 🎯 **Daily Goals:** Set and mark daily milestones as completed
+* 🌤️ **Real-Time Weather:** Live weather updates and dynamic backgrounds based on the time of day
+* 💡 **Motivational Quotes:** Fetches random quotes to keep you inspired
+* 🎨 **Dynamic Themes:** Easily toggle between custom UI themes
+
+---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3, Vanilla JavaScript
-- **APIs Used:** WeatherAPI (Live weather), DummyJSON (Quotes)
-- **Storage:** Browser LocalStorage (No backend required)
+
+**HTML5 • CSS3 • Vanilla JavaScript • WeatherAPI • DummyJSON • Git • GitHub Pages**
+
+---
+
+## 🔄 How It Works
+
+```text
+User Input (Tasks/Goals/Planner)
+    ↓
+JavaScript Processing
+    ↓
+Browser LocalStorage (Data Saving)
+    ↓
+UI DOM Update & Render
+    ↓
+External API Call (Weather/Quotes)
+    ↓
+Dynamic Interface Adjustments
