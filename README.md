@@ -1,57 +1,37 @@
 # 🚀 Productivity Dashboard
-
 ### Clean & Interactive Time Management System
-
 Productivity Dashboard is an interactive web application designed to help users track tasks, manage time efficiently, set daily milestones, and stay inspired.
-
 🔗 **Live Demo:** [Productivity Dashboard](https://git-jayendra.github.io/Productivity-Dashboard/)
 
 ---
-
 ## 📸 Screenshots
-
 ### 🌑 Dark Theme
-
 #### 🌅 Morning
-
 ![Dark Theme Morning](Images/Dark%20Theme%20Morning_vibe.png)
-
 #### 🌆 Evening
-
 ![Dark Theme Evening](Images/Dark%20Theme%20Evening_vibe.png)
-
 #### 🌙 Night
-
 ![Dark Theme Night](Images/Dark%20Theme%20Night_vibe.png)
 
 ---
-
 ### ☀️ Light Theme
-
 #### 🌅 Morning
-
 ![Light Theme Morning](Images/Light%20Theme%20Morning_vibe.png)
-
 #### 🌆 Evening
-
 ![Light Theme Evening](Images/Light%20Theme%20Evening_vibe.png)
-
 #### 🌙 Night
-
 ![Light Theme Night](Images/Light%20Theme%20Night_vibe.png)
 
 ---
-
 ## 🎥 Project Demo
+### 📹 Productivity Dashboard Demo Video
 
-### ▶️ Productivity Dashboard Demo
+**[⬇️ Download Full Demo (73.5 MB)](https://github.com/git-Jayendra/Productivity-Dashboard/releases/download/v1.0/Demo.mp4)**
 
-[🎬 Watch the Project Demo](videos/Demo.mp4)
+Watch the complete walkthrough of the Productivity Dashboard application in action. The demo showcases all features including task management, Pomodoro timer, daily planner, and dynamic themes.
 
 ---
-
 ## ✨ Features
-
 * ✅ **Task Management:** Add, complete, and track tasks with data saved locally using Browser LocalStorage.
 * 📅 **Daily Planner:** Plan your day using an hour-by-hour agenda.
 * ⏱️ **Pomodoro Timer:** Built-in 25-minute deep-work timer.
@@ -61,15 +41,11 @@ Productivity Dashboard is an interactive web application designed to help users 
 * 🎨 **Dynamic Themes:** Easily switch between custom UI themes.
 
 ---
-
 ## 🛠️ Tech Stack
-
 **HTML5 • CSS3 • Vanilla JavaScript • WeatherAPI • DummyJSON • Git • GitHub**
 
 ---
-
 ## 🔄 How It Works
-
 ```text
 User Input (Tasks / Goals / Planner)
             ↓
@@ -89,22 +65,15 @@ User Input (Tasks / Goals / Planner)
 ```
 
 ---
-
 ## ⚙️ Run Locally
-
 ```bash
 git clone https://github.com/git-Jayendra/Productivity-Dashboard.git
 cd Productivity-Dashboard
 ```
-
 Simply open the `index.html` file in your preferred web browser.
-
 No local server is required.
 
 ---
-
 ## 👨‍💻 Author
-
 **Jayendra Pandey**
-
 🔗 [GitHub Profile](https://github.com/git-Jayendra)
