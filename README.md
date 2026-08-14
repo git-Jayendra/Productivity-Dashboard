@@ -11,20 +11,20 @@ Productivity Dashboard is an interactive web application designed to help users 
 
 Watch the video below to see how the dashboard works:
 
-<video src="assets/videos/Demo.mp4" controls="controls" width="100%"></video>
+<video src="videos/Demo.mp4" controls="controls" width="100%"></video>
 
 ---
 ## 📸 Screenshots & Theme Variations
 
 ### Dark Theme Vibe
-![Dark Theme Evening](assets/images/Dark%20Theme%20Evening_vibe.png)
-![Dark Theme Morning](assets/images/Dark%20Theme%20Morning_vibe.png)
-![Dark Theme Night](assets/images/Dark%20Theme%20Night_vibe.png)
+![Dark Theme Evening](Images/Dark%20Theme%20Evening_vibe.png)
+![Dark Theme Morning](Images/Dark%20Theme%20Morning%20_.png)
+![Dark Theme Night](Images/Dark%20Theme%20Night_vibe.png)
 
 ### Light Theme Vibe
-![Light Theme Evening](assets/images/Light%20Theme%20Evening_vibe.png)
-![Light Theme Morning](assets/images/Light%20Theme%20Morning_vibe.png)
-![Light Theme Night](assets/images/Light%20Theme%20Night_vibe.png)
+![Light Theme Evening](Images/Light%20Theme%20Evening_vibe.png)
+![Light Theme Morning](Images/Light%20Theme%20Morning_vibe.png)
+![Light Theme Night](Images/Light%20Theme%20Night_vibe.png)
 
 ---
 
