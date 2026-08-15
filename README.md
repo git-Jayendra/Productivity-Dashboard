@@ -77,4 +77,4 @@ User Input (Tasks / Goals / Planner)
 ## 👨‍💻 Author
 Jayendra Pandey
 
-🔗 [GitHub ](https://github.com/git-Jayendra)
+  [GitHub ](https://github.com/git-Jayendra)
