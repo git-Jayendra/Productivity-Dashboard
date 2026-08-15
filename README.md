@@ -72,7 +72,9 @@ User Input (Tasks / Goals / Planner)
  Dynamic Interface Adjustments
 
 ```
- ##👨‍💻 Author
+---
+
+## 👨‍💻 Author
 Jayendra Pandey
 
-🔗 GitHub Profile
+🔗 [GitHub ](https://github.com/git-Jayendra)
